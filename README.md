@@ -77,3 +77,24 @@ UserDefined-DecisionTree-Classifier/
 ├── UserDefinedDecisionTree_Classifier.py
 ├── iris.csv
 └── README.md
+
+## How to Run
+
+1. Make sure Python is installed.
+
+2. Keep the following files in the same folder:
+   - `UserDefinedDecisionTree_Classifier.py`
+   - `iris.csv`
+
+3. Open Command Prompt or Terminal in the project folder.
+
+4. Run the program:
+
+```bash
+python UserDefinedDecisionTree_Classifier.py
+
+## Author
+
+**Yash Chavan**
+
+
